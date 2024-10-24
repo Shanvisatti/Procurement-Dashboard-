@@ -3,7 +3,8 @@
 ## Dataset and Dashboard:
 <a href="https://github.com/Shanvisatti/Procurement-Dashboard-/blob/main/Dashboard%20.xlsx">Dataset</a>
 
-## Dashboard: <a href="https://github.com/Shanvisatti/Procurement-Dashboard-/blob/main/Dashboard%20ss.png">Dashboard</a>
+## Dashboard:
+<a href="https://github.com/Shanvisatti/Procurement-Dashboard-/blob/main/Dashboard%20ss.png">Dashboard</a>
 
 ## Questions Answered:
 - How did the procurement strategies of Varav Biogenesis evolve before and after the COVID-19 pandemic?
