@@ -27,7 +27,7 @@
 - Comparative Analysis: Compared procurement strategies pre- and post-COVID-19 to assess effectiveness and resilience.
 - Recommendations Development: Formulated actionable recommendations based on findings to improve procurement strategies moving forward.
 
-## Findings
+## Findings:
 
 Pre-COVID:
 - Stable Supplier Network: Varav Biogenesis maintained a steady and reliable network of 300–500 suppliers. The procurement process was efficient, with suppliers located in key cities (Mumbai, Chennai, Delhi, and Vapi), ensuring easy access to raw materials like Paracetamol IP, Levofloxacin, and Metronidazole. Costs were manageable, and supplier response times ranged between 6–10 days.
@@ -46,14 +46,14 @@ Post-COVID:
 - Pre-COVID: The focus was on cost efficiency, maintaining predictable lead times, and managing a stable supply chain with minimal disruptions.
 - Post-COVID: The strategy shifted to survival and continuity—balancing cost spikes with the need for supply chain flexibility, increasing safety stock, and negotiating more favorable supplier terms to handle extended lead times.
 
-## Implications
+## Implications:
 Varav Biogenesis faced significant challenges post-COVID, such as increased costs and delays, but their proactive adjustments—like recalibrating safety stock and expanding supplier relationships—helped them maintain operational continuity. The findings highlight the importance of a flexible procurement strategy to manage supply chain disruptions effectively.
 
-## Recommendations
+## Recommendations:
 - Make-or-Buy Analysis: To reduce reliance on external suppliers, the company should consider in-house production of key materials, especially for high-demand products.
 - Supplier Collaboration Platforms: Implementing platforms to share real-time data and forecasts with suppliers could improve procurement efficiency and reduce lead times.
 - Vulnerability Audit: Conducting audits of the supply chain to identify gaps and vulnerabilities will improve the company’s preparedness for future disruptions.
 
-## Conclusion
+## Conclusion:
 Varav Biogenesis's ability to adapt its procurement strategies during the pandemic demonstrates the importance of a resilient supply chain. This project underscores the value of strategic supplier management, safety stock policies, and data-driven decision-making to navigate unforeseen challenges in the pharmaceutical industry.
 
