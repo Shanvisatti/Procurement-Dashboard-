@@ -25,7 +25,8 @@
 - Recommendations Development: Formulated actionable recommendations based on findings to improve procurement strategies moving forward.
 
 ## Dashboard
-https://github.com/Shanvisatti/Procurement-Dashboard-/blob/main/Dashboard%20ss.png 
+![Dashboard ss](https://github.com/user-attachments/assets/e0163377-e28f-4725-97a3-6f7560bf0cf7)
+
 
 ## Findings
 
